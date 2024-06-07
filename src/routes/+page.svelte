@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="ui demo by SvelteKit + tailwind" />
 </svelte:head>
 
 <section>
